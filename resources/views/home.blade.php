@@ -1,7 +1,7 @@
 @extends("layout.app")
 
 @section("title")
-    Name
+    Home
 @endsection
 
 @section("content")
